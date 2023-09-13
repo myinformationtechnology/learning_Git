@@ -50,3 +50,9 @@ Entdecken Sie, wie Sie Commits auf ein Remote-Repository pushen und von diesem p
 git push origin <Branchname>
 git pull origin <Branchname>
 ``````
+
+
+## Authors
+
+- [@myinformationtechnology](https://www.github.com/myinformationtechnology)
+
